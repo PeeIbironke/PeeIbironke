@@ -1,17 +1,92 @@
-Hi there, I'm Abiodun Peter Ibironke 👋
+# Hi, I'm Peter Ibironke 👋
 
-Systems & Process Engineer | Infrastructure Lifecycle Management | Automation Specialist
+### Senior Systems Administrator | Cloud & Endpoint Engineering | Identity & Access | Automation
 
-I am a Systems & Process Engineer driven by a simple philosophy: Complexity is the enemy of reliability. My work focuses on transforming fragmented technical environments into streamlined, scalable, and highly predictable ecosystems. I believe that an engineer's greatest contribution is not just fixing what is broken, but building the frameworks that prevent failure from occurring in the first place.
+I'm an IT systems professional based in Ottawa, Canada, with hands-on experience across **endpoint management, identity and access, cloud platforms, enterprise infrastructure, security, and automation**.
 
-💡 My Engineering Philosophy
-* Scalability over Manual Effort: I focus on building processes that grow without increasing administrative overhead. 
-* Reducing Human Error: By leveraging PowerShell and Python, I create automated workflows that ensure every deployment is identical and error-free.
-* Root Cause Obsession: I utilize data-driven Root Cause Analysis (RCA) to identify underlying systemic issues and re-engineer processes to eliminate them.
+My work focuses on building secure, manageable, and repeatable IT environments — using automation and standardized processes to reduce manual administration and improve reliability.
 
-⚙️ Bridging IT & Manufacturing
-While my background is rooted in enterprise infrastructure and cloud systems, my core focus is Process Maturity and System Standardization.
+## 🔧 What I Work With
 
-* Process Maturity: Strategically evolving "ad-hoc" tasks into documented, repeatable, and measurable engineering workflows.
-* Standardization: Developing comprehensive configuration standards to ensure consistency across complex product lines and environments.
-* Compliance & Risk: Applying rigorous auditing and change management to maintain high-tech operational standards.
+**Endpoint Management**
+- Microsoft Intune & Windows Autopilot
+- NinjaOne RMM
+- Windows endpoint administration
+- Application deployment & patch management
+- Chrome Enterprise
+- Device lifecycle management
+
+**Identity & Cloud**
+- Microsoft Entra ID
+- Active Directory & Group Policy
+- Microsoft 365
+- Google Workspace
+- Conditional Access
+- SSO, SAML, SCIM & OAuth/OIDC
+- Microsoft Azure
+
+**Automation**
+- PowerShell
+- Microsoft Graph
+- Bash
+- NinjaOne automation
+- Provisioning & remediation workflows
+- Health checks and administrative tooling
+
+**Security & Infrastructure**
+- Microsoft Defender
+- Bitdefender GravityZone
+- Cloudflare
+- BitLocker
+- Vulnerability remediation
+- Windows Server
+- Hyper-V & VMware
+- Managed switches, VLANs, Wi-Fi & VPN
+
+## 🧪 Current Technical Focus
+
+I'm actively building and expanding hands-on environments around:
+
+- Microsoft Intune and modern endpoint management
+- Windows Autopilot deployment
+- Entra ID and Conditional Access
+- Endpoint security and compliance
+- Microsoft 365 administration
+- PowerShell and Microsoft Graph automation
+- Cloud-only and hybrid identity scenarios
+- Infrastructure monitoring and remediation automation
+
+## 🚀 Featured Areas
+
+This GitHub contains practical projects, scripts, labs, and documentation covering:
+
+- **Intune & Autopilot**
+- **PowerShell Automation**
+- **Azure / Entra ID Automation**
+- **Identity & Access Engineering**
+- **Infrastructure Labs**
+- **Endpoint Diagnostics**
+- **Technical Documentation & Case Studies**
+
+## 🏢 PeeTech
+
+I'm also building **PeeTech**, an IT services and endpoint-management practice focused on helping small businesses modernize, secure, and manage their technology environments.
+
+PeeTech development work is maintained separately under the **PeeTech-CA** GitHub organization.
+
+## 🎯 Engineering Approach
+
+I believe good IT operations should be **secure, repeatable, documented, and increasingly automated**.
+
+My approach is simple:
+
+**Standardize → Automate → Monitor → Improve**
+
+Rather than repeatedly fixing the same issue manually, I look for ways to turn the solution into a reusable script, workflow, policy, or documented operational process.
+
+---
+
+📍 Ottawa, Canada  
+💼 Senior IT Administrator  
+⚙️ PowerShell • Intune • Entra ID • Microsoft 365 • NinjaOne • Azure  
+🔐 Endpoint Management • Identity • Security • Automation
